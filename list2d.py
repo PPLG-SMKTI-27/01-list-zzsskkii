@@ -1,6 +1,6 @@
 nilai = [[10,20,30],
          [40,50,60],
-         [70,80,90],
+         [70,80,70],
 ]
 for i in range (len(nilai)):
     index0 = nilai [0][0] + nilai [0][1] + nilai [0][2]
